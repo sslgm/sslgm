@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-stats.vercel.app/api?username=sslgm&show_icons=true&theme=vue" />
 </div>
+<div align="center" href="https://github.com/sslgm">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sslgm&theme=tokyonight_duo" />
+</div>
 </br>
 <div align="center" href="https://github.com/sslgm">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sslgm&theme=github">
