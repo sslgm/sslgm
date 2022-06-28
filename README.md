@@ -1,7 +1,7 @@
-### Hi there 👋
+<h2 align='center'> <i>Hello, Folks!</h2>  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&theme=vue"  width="400">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&theme=vue" />
-*Hello guys, here is my [profile](https://github.com/sslgm) page, but you may not see much data because most of it is **private** and I don't intend to make them public, but of course I hope to find some like-minded friends.*
+Hello guys, here is my [profile](https://github.com/sslgm) page, but you may not see much data because most of it is **private** and I don't intend to make them public, but of course I hope to find some like-minded friends.
  
 </br>
 <div align="center" href="https://github.com/sslgm">
