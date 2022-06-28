@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sslgm&repo=&theme=vue&show_icons=true&hide_title=true&card_width=1024px&repo=github-readme-stats" />
 </div>
 <div align="center" href="https://github.com/sslgm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sslgm&theme=vue&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sslgm&show_icons=true&theme=vue" />
 </div>
 </br>
 <div align="center" href="https://github.com/sslgm">
