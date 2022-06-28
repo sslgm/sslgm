@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <div align="center" href="https://github.com/sslgm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sslgm&repo=&theme=vue&show_icons=true&hide_title=true&card_width=1024px&repo=github-readme-stats" />
 </div>
+<div align="center" href="https://github.com/sslgm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sslgm&repo=github-readme-stats&theme=vue" />
+</div>
 </br>
 <div align="center" href="https://github.com/sslgm">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sslgm&theme=github">
