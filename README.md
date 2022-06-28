@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sslgm&theme=default"/>
-</div>
+<a href="https://github.com/sslgm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sslgm&repo=convoychat&theme=dark&show_icons=true" />
+</a>
