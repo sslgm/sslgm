@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" href="https://github.com/sslgm">
-  <p>sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</p>
+  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&theme=vue" />
+  _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full Stack)](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Kampd](https://www.linkedin.com/company/knowledge-amplified/). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._ 
 </div>
 <div align="center" href="https://github.com/sslgm">
   <img src="https://github-readme-stats.vercel.app/api?username=sslgm&show_icons=true&theme=vue" />
