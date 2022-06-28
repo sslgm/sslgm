@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 <div align="center" href="https://github.com/sslgm">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sslgm&theme=github">
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sslgm&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sslgm&theme=vue" />
+</a>
