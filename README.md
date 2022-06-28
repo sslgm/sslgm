@@ -1,9 +1,13 @@
 <h2 align='center'> <i>Hello, Folks!</h2>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sslgm&show_icons=true&theme=vue" width="400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sslgm&show_icons=true&theme=vue" wight="400" />
+Hi, I'm SSLGM, currently VP of Product at NNS Product and working in the development department of a tertiary care hospital, I love to code in JavaScript and Rust, I think there is an art to front-end programming, so I love front-end. In reality I am a very friendly person, if you want to know something from me, I will be more than willing.  
+<br/>
+<br/>
+<br/>
+<br/>
+   
 
- Hi, I'm SSLGM, currently VP of Product at NNS Product and working in the development department of a tertiary care hospital, I love to code in JavaScript and Rust, I think there is an art to front-end programming, so I love front-end. In reality I am a very friendly person, if you want to know something from me, I will be more than willing.
- ---
 <div align="center" href="https://github.com/sslgm">
   
 </div>
