@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" href="https://github.com/sslgm">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&theme=vue" />
-
+  <p>sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&theme=vue" />
+</div>
+<div align="center" href="https://github.com/sslgm">
   <img src="https://github-readme-stats.vercel.app/api?username=sslgm&show_icons=true&theme=vue" />
 </div>
 <div align="center" href="https://github.com/sslgm">
