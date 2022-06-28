@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&theme=vue" />
 *Hello guys, here is my [profile](https://github.com/sslgm) page, but you may not see much data because most of it is **private** and I don't intend to make them public, but of course I hope to find some like-minded friends.*<div align="center" href="https://github.com/sslgm">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&theme=vue" />
-  
-</div>
+ 
 </br>
 <div align="center" href="https://github.com/sslgm">
   <img src="https://github-readme-stats.vercel.app/api?username=sslgm&show_icons=true&theme=vue" />
