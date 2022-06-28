@@ -21,3 +21,5 @@ In reality I am a very friendly person, if you want to know something from me, I
 <div align="center" href="https://github.com/sslgm">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sslgm&theme=minimal">
 </div>
+
+![](https://raw.githubusercontent.com/sslgm/main/assets/github-contribution-grid-snake.svg)
