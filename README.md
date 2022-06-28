@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslgm&hide_title=true&hide_border=true&layout=compact&theme=default" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sslgm&hide_title=true&hide_border=true&layout=compact&theme=default" />
 </div>
