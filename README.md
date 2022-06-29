@@ -5,7 +5,6 @@
 Hi, I'm <strong>SSLGM</strong>, currently VP of Product at <strong>NNS Product</strong> and working in the development department of a tertiary care hospital, 
 <br/>
 I love to code in JavaScript and Rust, I think there is an art to front-end programming, so I love front-end.
-<br/>
 In reality I am a very friendly person, if you want to know something from me, I will be more than willing.  
 <br/>
 <br/>
